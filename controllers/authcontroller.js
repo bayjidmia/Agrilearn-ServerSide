@@ -1,5 +1,3 @@
-// controllers/auth.controller.js
-
 import e from "express";
 import userModel from "../models/user.model.js";
 

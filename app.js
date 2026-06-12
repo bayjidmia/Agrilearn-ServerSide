@@ -9,3 +9,5 @@ app.use(express.json());
 app.use(cors());
 
 app.use("/api/user", authRoutes);
+
+export default app;
